@@ -1,6 +1,8 @@
 # Currency Exchange API – NodeJS
 
-Command to run in docker:
+Repo in docker: https://hub.docker.com/repository/docker/needsmorechilli/nodejsassignment/general
+
+To run container:
 
 docker run -d -p 8080:8080 needsmorechilli/nodejsassignment:0.1
 
