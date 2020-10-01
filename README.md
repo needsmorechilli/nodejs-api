@@ -1,5 +1,9 @@
 # Currency Exchange API – NodeJS
 
-docker run -d -p 8080:8080 u1ih/nodejs-api
+Command to run in docker:
+
+docker run -d -p 8080:8080 needsmorechilli/nodejsassignment:0.1
+
+Command to show in local host:
 
 curl -i http://localhost:8080/fx
